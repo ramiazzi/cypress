@@ -1,2 +1,2 @@
 # cypress
-getting familiar with Cypress
+Getting familiar with Cypress
